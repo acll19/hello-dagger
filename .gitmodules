@@ -1,0 +1,3 @@
+[submodule "dagger-node"]
+	path = dagger-node
+	url = https://github.com/acll19/dagger-node.git
