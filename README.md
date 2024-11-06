@@ -65,4 +65,7 @@ npm run test:e2e
 
 ```sh
 npm run lint
+
+# or with dagger
+./dagger-run.sh . lint
 ```
